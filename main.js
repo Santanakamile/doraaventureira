@@ -7,3 +7,4 @@ avanca.forEach(button=>){
     const proximoPasso="passo"+getAttribute("data-proximo")
     atual.classList.remove("ativo")
     document.getElementById(proximoPasso).classList.add(ativo)
+    
